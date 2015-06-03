@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Updates"
+title: "Weekly Updates"
 group: navigation
 ---
 {% include JB/setup %}
